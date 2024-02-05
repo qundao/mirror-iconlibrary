@@ -1,6 +1,6 @@
 {
-	"name": "可莉 App图标",
-	"description": "App图标订阅",
+	"name": "可莉图标",
+	"description": "可莉图标订阅",
 	"icons": [
 		{
 			"name": "1.1.1.1",
@@ -349,6 +349,46 @@
 		{
 			"name": "smzdm",
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/smzdm.png"
+		},
+		{
+			"name": "Bank",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/Bank.png"
+		},
+		{
+			"name": "BoxJS",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/BoxJS.png"
+		},
+		{
+			"name": "KeLee",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/KeLee.png"
+		},
+		{
+			"name": "Prevent_DNS_Leaks",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/Prevent_DNS_Leaks.png"
+		},
+		{
+			"name": "RemoteResourceConverter",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/RemoteResourceConverter.png"
+		},
+		{
+			"name": "RemoveAds",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/RemoveAds.png"
+		},
+		{
+			"name": "Script-Hub",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/Script-Hub.png"
+		},
+		{
+			"name": "Sub-Store",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/Sub-Store.png"
+		},
+		{
+			"name": "OpenAI",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Website_icon/120px/OpenAI.png"
+		},
+		{
+			"name": "RevenueCat",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Website_icon/120px/RevenueCat.png"
 		}
 	]
 }
