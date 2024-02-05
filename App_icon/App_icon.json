@@ -1,0 +1,354 @@
+{
+	"name": "可莉 App图标",
+	"description": "App图标订阅",
+	"icons": [
+		{
+			"name": "1.1.1.1",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/1.1.1.1.png"
+		},
+		{
+			"name": "12306",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/12306.png"
+		},
+		{
+			"name": "Adobe_Creative_Cloud",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Adobe_Creative_Cloud.png"
+		},
+		{
+			"name": "Agenda",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Agenda.png"
+		},
+		{
+			"name": "Aiinquiry",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Aiinquiry.png"
+		},
+		{
+			"name": "AliYunDrive",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/AliYunDrive.png"
+		},
+		{
+			"name": "Amap",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Amap.png"
+		},
+		{
+			"name": "AppRaven",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/AppRaven.png"
+		},
+		{
+			"name": "Audiomack",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Audiomack.png"
+		},
+		{
+			"name": "BabyTree",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/BabyTree.png"
+		},
+		{
+			"name": "Baidu",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Baidu.png"
+		},
+		{
+			"name": "BaiduNetDisk",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/BaiduNetDisk.png"
+		},
+		{
+			"name": "Baidu_input_method",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Baidu_input_method.png"
+		},
+		{
+			"name": "Bcy",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Bcy.png"
+		},
+		{
+			"name": "Bilibili",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Bilibili.png"
+		},
+		{
+			"name": "Bing",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Bing.png"
+		},
+		{
+			"name": "Cainiao",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Cainiao.png"
+		},
+		{
+			"name": "CaixinMedia",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/CaixinMedia.png"
+		},
+		{
+			"name": "Changba",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Changba.png"
+		},
+		{
+			"name": "ChatGPT",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/ChatGPT.png"
+		},
+		{
+			"name": "CoolApk",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/CoolApk.png"
+		},
+		{
+			"name": "Cubox",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Cubox.png"
+		},
+		{
+			"name": "Daily",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Daily.png"
+		},
+		{
+			"name": "Darkroom",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Darkroom.png"
+		},
+		{
+			"name": "Dazn",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Dazn.png"
+		},
+		{
+			"name": "Discovery+",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Discovery+.png"
+		},
+		{
+			"name": "Disney+",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Disney+.png"
+		},
+		{
+			"name": "Documents",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Documents.png"
+		},
+		{
+			"name": "Drafts",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Drafts.png"
+		},
+		{
+			"name": "DragonRead",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/DragonRead.png"
+		},
+		{
+			"name": "Emby",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Emby.png"
+		},
+		{
+			"name": "Enpass_Password_Manager",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Enpass_Password_Manager.png"
+		},
+		{
+			"name": "Fileball",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Fileball.png"
+		},
+		{
+			"name": "GitHub",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/GitHub.png"
+		},
+		{
+			"name": "Google",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Google.png"
+		},
+		{
+			"name": "Grow",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Grow.png"
+		},
+		{
+			"name": "HappyDays",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/HappyDays.png"
+		},
+		{
+			"name": "Himalaya",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Himalaya.png"
+		},
+		{
+			"name": "IThome",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/IThome.png"
+		},
+		{
+			"name": "JD",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/JD.png"
+		},
+		{
+			"name": "JavaScriptConverter",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/JavaScriptConverter.png"
+		},
+		{
+			"name": "Loon",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Loon.png"
+		},
+		{
+			"name": "Mango_TV",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Mango_TV.png"
+		},
+		{
+			"name": "NeteaseCloudMusic",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/NeteaseCloudMusic.png"
+		},
+		{
+			"name": "NeteaseNews",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/NeteaseNews.png"
+		},
+		{
+			"name": "Nicegram",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Nicegram.png"
+		},
+		{
+			"name": "Nike",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Nike.png"
+		},
+		{
+			"name": "Notability",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Notability.png"
+		},
+		{
+			"name": "OneClickCutout",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/OneClickCutout.png"
+		},
+		{
+			"name": "OpenAI",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/OpenAI.png"
+		},
+		{
+			"name": "PDF_Expert",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/PDF_Expert.png"
+		},
+		{
+			"name": "Paramount+",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Paramount+.png"
+		},
+		{
+			"name": "PiPiXia",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/PiPiXia.png"
+		},
+		{
+			"name": "Picsart",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Picsart.png"
+		},
+		{
+			"name": "PikPak",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/PikPak.png"
+		},
+		{
+			"name": "QQ",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/QQ.png"
+		},
+		{
+			"name": "QQKSong",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/QQKSong.png"
+		},
+		{
+			"name": "QQMusic",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/QQMusic.png"
+		},
+		{
+			"name": "QiDian",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/QiDian.png"
+		},
+		{
+			"name": "RedPaper",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/RedPaper.png"
+		},
+		{
+			"name": "Reddit",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Reddit.png"
+		},
+		{
+			"name": "Safari",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Safari.png"
+		},
+		{
+			"name": "Scanner_Pro",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Scanner_Pro.png"
+		},
+		{
+			"name": "SearchPicture",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/SearchPicture.png"
+		},
+		{
+			"name": "SevenCat",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/SevenCat.png"
+		},
+		{
+			"name": "Soul",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Soul.png"
+		},
+		{
+			"name": "Spark",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Spark.png"
+		},
+		{
+			"name": "Spotify",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Spotify.png"
+		},
+		{
+			"name": "Taobao",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Taobao.png"
+		},
+		{
+			"name": "Tencent_Video",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Tencent_Video.png"
+		},
+		{
+			"name": "TestFlight",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/TestFlight.png"
+		},
+		{
+			"name": "Tieba",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Tieba.png"
+		},
+		{
+			"name": "TikTok",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/TikTok.png"
+		},
+		{
+			"name": "TubeMax",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/TubeMax.png"
+		},
+		{
+			"name": "Umetrip",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Umetrip.png"
+		},
+		{
+			"name": "UnionPay",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/UnionPay.png"
+		},
+		{
+			"name": "VVebo",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/VVebo.png"
+		},
+		{
+			"name": "Weibo",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Weibo.png"
+		},
+		{
+			"name": "Weibo_intl",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Weibo_intl.png"
+		},
+		{
+			"name": "Weixin",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Weixin.png"
+		},
+		{
+			"name": "WeixinMiniPrograms",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/WeixinMiniPrograms.png"
+		},
+		{
+			"name": "Xmind",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Xmind.png"
+		},
+		{
+			"name": "YouKu_Video",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/YouKu_Video.png"
+		},
+		{
+			"name": "YouTube",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/YouTube.png"
+		},
+		{
+			"name": "Zhihu",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Zhihu.png"
+		},
+		{
+			"name": "iQiYi_Video",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/iQiYi_Video.png"
+		},
+		{
+			"name": "smzdm",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/smzdm.png"
+		}
+	]
+}
