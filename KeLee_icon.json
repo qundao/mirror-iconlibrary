@@ -19,18 +19,6 @@
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Agenda.png"
 		},
 		{
-			"name": "爱企查",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Aiinquiry.png"
-		},
-		{
-			"name": "阿里云盘",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/AliYunDrive.png"
-		},
-		{
-			"name": "高德地图",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Amap.png"
-		},
-		{
 			"name": "AppRaven",
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/AppRaven.png"
 		},
@@ -39,60 +27,20 @@
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Audiomack.png"
 		},
 		{
-			"name": "宝宝树孕育",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/BabyTree.png"
-		},
-		{
-			"name": "百度",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Baidu.png"
-		},
-		{
-			"name": "百度网盘",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/BaiduNetDisk.png"
-		},
-		{
-			"name": "百度输入法",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Baidu_input_method.png"
-		},
-		{
-			"name": "半次元",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Bcy.png"
-		},
-		{
-			"name": "哔哩哔哩",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Bilibili.png"
-		},
-		{
-			"name": "必应",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Bing.png"
-		},
-		{
-			"name": "菜鸟",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Cainiao.png"
-		},
-		{
-			"name": "财新",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/CaixinMedia.png"
-		},
-		{
-			"name": "唱吧",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Changba.png"
+			"name": "Bluesky",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Bluesky.png"
 		},
 		{
 			"name": "ChatGPT",
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/ChatGPT.png"
 		},
 		{
-			"name": "酷安",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/CoolApk.png"
+			"name": "Claude",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Claude.png"
 		},
 		{
 			"name": "Cubox",
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Cubox.png"
-		},
-		{
-			"name": "推栏",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Daily.png"
 		},
 		{
 			"name": "Darkroom",
@@ -117,10 +65,6 @@
 		{
 			"name": "Drafts",
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Drafts.png"
-		},
-		{
-			"name": "番茄小说",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/DragonRead.png"
 		},
 		{
 			"name": "Emby",
@@ -151,36 +95,28 @@
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/HappyDays.png"
 		},
 		{
-			"name": "喜马拉雅",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Himalaya.png"
-		},
-		{
 			"name": "IT之家",
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/IThome.png"
 		},
 		{
-			"name": "京东",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/JD.png"
+			"name": "Instapaper",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Instapaper.png"
 		},
 		{
 			"name": "JavaScript转换器",
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/JavaScriptConverter.png"
 		},
 		{
+			"name": "Line",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Line.png"
+		},
+		{
 			"name": "Loon",
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Loon.png"
 		},
 		{
-			"name": "芒果TV",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Mango_TV.png"
-		},
-		{
-			"name": "网易云音乐",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/NeteaseCloudMusic.png"
-		},
-		{
-			"name": "网易新闻",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/NeteaseNews.png"
+			"name": "Netflix",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Netflix.png"
 		},
 		{
 			"name": "Nicegram",
@@ -195,20 +131,12 @@
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Notability.png"
 		},
 		{
-			"name": "一键抠图",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/OneClickCutout.png"
-		},
-		{
 			"name": "PDF点睛",
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/PDF_Expert.png"
 		},
 		{
 			"name": "Paramount+",
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Paramount+.png"
-		},
-		{
-			"name": "皮皮虾",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/PiPiXia.png"
 		},
 		{
 			"name": "Picsart",
@@ -219,24 +147,20 @@
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/PikPak.png"
 		},
 		{
+			"name": "Prime Video",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/PrimeVideo.png"
+		},
+		{
+			"name": "ProCamera",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/ProCamera.png"
+		},
+		{
 			"name": "QQ",
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/QQ.png"
 		},
 		{
-			"name": "全民K歌",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/QQKSong.png"
-		},
-		{
 			"name": "QQ音乐",
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/QQMusic.png"
-		},
-		{
-			"name": "起点读书",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/QiDian.png"
-		},
-		{
-			"name": "小红书",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/RedPaper.png"
 		},
 		{
 			"name": "Reddit",
@@ -251,14 +175,6 @@
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Scanner_Pro.png"
 		},
 		{
-			"name": "搜图神器",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/SearchPicture.png"
-		},
-		{
-			"name": "七猫小说",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/SevenCat.png"
-		},
-		{
 			"name": "Soul",
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Soul.png"
 		},
@@ -271,20 +187,16 @@
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Spotify.png"
 		},
 		{
-			"name": "淘宝",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Taobao.png"
+			"name": "Stay",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Stay.png"
 		},
 		{
-			"name": "腾讯视频",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Tencent_Video.png"
+			"name": "Telegram",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Telegram.png"
 		},
 		{
 			"name": "TestFlight",
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/TestFlight.png"
-		},
-		{
-			"name": "贴吧",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Tieba.png"
 		},
 		{
 			"name": "TikTok",
@@ -295,24 +207,76 @@
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/TubeMax.png"
 		},
 		{
-			"name": "航旅纵横",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Umetrip.png"
+			"name": "VVebo",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/VVebo.png"
+		},
+		{
+			"name": "Xmind",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Xmind.png"
+		},
+		{
+			"name": "YouTube",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/YouTube.png"
+		},
+		{
+			"name": "一键抠图",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/OneClickCutout.png"
+		},
+		{
+			"name": "七猫小说",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/SevenCat.png"
+		},
+		{
+			"name": "中国人保",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/PICC_Insurance.png"
+		},
+		{
+			"name": "中国移动云盘",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/mobileClouds.png"
 		},
 		{
 			"name": "云闪付",
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/UnionPay.png"
 		},
 		{
-			"name": "VVebo",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/VVebo.png"
+			"name": "京东",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/JD.png"
 		},
 		{
-			"name": "微博",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Weibo.png"
+			"name": "什么值得买",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/smzdm.png"
 		},
 		{
-			"name": "微博轻享版",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Weibo_intl.png"
+			"name": "优酷视频",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/YouKu_Video.png"
+		},
+		{
+			"name": "全民K歌",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/QQKSong.png"
+		},
+		{
+			"name": "半次元",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Bcy.png"
+		},
+		{
+			"name": "哔哩哔哩",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Bilibili.png"
+		},
+		{
+			"name": "唱吧",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Changba.png"
+		},
+		{
+			"name": "喜马拉雅",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Himalaya.png"
+		},
+		{
+			"name": "宝宝树孕育",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/BabyTree.png"
+		},
+		{
+			"name": "小红书",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/RedPaper.png"
 		},
 		{
 			"name": "微信",
@@ -323,108 +287,136 @@
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/WeixinMiniPrograms.png"
 		},
 		{
-			"name": "Xmind",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Xmind.png"
+			"name": "微博",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Weibo.png"
 		},
 		{
-			"name": "优酷视频",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/YouKu_Video.png"
+			"name": "微博轻享版",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Weibo_intl.png"
 		},
 		{
-			"name": "YouTube",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/YouTube.png"
+			"name": "必应",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Bing.png"
 		},
 		{
-			"name": "知乎",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Zhihu.png"
+			"name": "推栏",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Daily.png"
+		},
+		{
+			"name": "搜图神器",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/SearchPicture.png"
+		},
+		{
+			"name": "淘宝",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Taobao.png"
+		},
+		{
+			"name": "爱企查",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Aiinquiry.png"
 		},
 		{
 			"name": "爱奇艺",
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/iQiYi_Video.png"
 		},
 		{
-			"name": "什么值得买",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/smzdm.png"
+			"name": "番茄小说",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/DragonRead.png"
 		},
 		{
-			"name": "Stay",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Stay.png"
+			"name": "百度",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Baidu.png"
 		},
 		{
-			"name": "中国移动云盘",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/mobileClouds.png"
+			"name": "百度网盘",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/BaiduNetDisk.png"
 		},
 		{
-			"name": "中国人保",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/PICC_Insurance.png"
+			"name": "百度输入法",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Baidu_input_method.png"
 		},
 		{
-			"name": "虎扑",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/HUPU.png"
+			"name": "皮皮虾",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/PiPiXia.png"
 		},
 		{
-			"name": "Instapaper",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Instapaper.png"
-		},
-		{
-			"name": "Prime Video",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/PrimeVideo.png"
-		},
-		{
-			"name": "Telegram",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Telegram.png"
-		},
-		{
-			"name": "Netflix",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Netflix.png"
-		},
-		{
-			"name": "ProCamera",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/ProCamera.png"
-		},
-		{
-			"name": "Line",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Line.png"
-		},
-		{
-			"name": "Bluesky",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Bluesky.png"
-		},
-		{
-			"name": "Claude",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Claude.png"
+			"name": "知乎",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Zhihu.png"
 		},
 		{
 			"name": "稿定设计",
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/GaoDing.png"
 		},
 		{
-			"name": "App Store",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/AppStore.png"
+			"name": "网易云音乐",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/NeteaseCloudMusic.png"
 		},
 		{
-			"name": "银行",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/Bank.png"
+			"name": "网易新闻",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/NeteaseNews.png"
+		},
+		{
+			"name": "腾讯视频",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Tencent_Video.png"
+		},
+		{
+			"name": "航旅纵横",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Umetrip.png"
+		},
+		{
+			"name": "芒果TV",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Mango_TV.png"
+		},
+		{
+			"name": "菜鸟",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Cainiao.png"
+		},
+		{
+			"name": "虎扑",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/HUPU.png"
+		},
+		{
+			"name": "财新",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/CaixinMedia.png"
+		},
+		{
+			"name": "贴吧",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Tieba.png"
+		},
+		{
+			"name": "起点读书",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/QiDian.png"
+		},
+		{
+			"name": "酷安",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/CoolApk.png"
+		},
+		{
+			"name": "阿里云盘",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/AliYunDrive.png"
+		},
+		{
+			"name": "高德地图",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Amap.png"
+		},
+		{
+			"name": "App Store",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/AppStore.png"
 		},
 		{
 			"name": "BoxJS",
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/BoxJS.png"
 		},
 		{
-			"name": "可莉",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/KeLee.png"
-		},
-		{
 			"name": "DNS防泄露",
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/Prevent_DNS_Leaks.png"
 		},
 		{
-			"name": "远程资源转换器",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/RemoteResourceConverter.png"
+			"name": "OpenAI",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Website_icon/120px/OpenAI.png"
 		},
 		{
-			"name": "广告拦截",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/RemoveAds.png"
+			"name": "RevenueCat",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Website_icon/120px/RevenueCat.png"
 		},
 		{
 			"name": "Script-Hub",
@@ -439,12 +431,20 @@
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/Switch.png"
 		},
 		{
-			"name": "OpenAI",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Website_icon/120px/OpenAI.png"
+			"name": "可莉",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/KeLee.png"
 		},
 		{
-			"name": "RevenueCat",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Website_icon/120px/RevenueCat.png"
+			"name": "广告拦截",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/RemoveAds.png"
+		},
+		{
+			"name": "远程资源转换器",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/RemoteResourceConverter.png"
+		},
+		{
+			"name": "银行",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/Bank.png"
 		}
 	]
 }
