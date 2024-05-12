@@ -411,6 +411,10 @@
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/Prevent_DNS_Leaks.png"
 		},
 		{
+			"name": "HTTPDNS",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/HTTPDNS.png"
+		},
+		{
 			"name": "OpenAI",
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Website_icon/120px/OpenAI.png"
 		},
