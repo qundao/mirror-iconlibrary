@@ -551,6 +551,18 @@
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/XFuse.png"
 		},
 		{
+			"name": "中国移动",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/ChinaMobile.png"
+		},
+		{
+			"name": "中国电信",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/ChinaTetlcom.png"
+		},
+		{
+			"name": "中国联通",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/ChinaUnicom.png"
+		},
+		{
 			"name": "App Store",
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/AppStore.png"
 		},
