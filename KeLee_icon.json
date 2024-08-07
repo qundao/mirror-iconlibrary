@@ -219,6 +219,10 @@
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/YouTube.png"
 		},
 		{
+			"name": "YouTube Music",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/YouTubeMusic.png"
+		},
+		{
 			"name": "一键抠图",
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/OneClickCutout.png"
 		},
@@ -601,6 +605,66 @@
 		{
 			"name": "Discord",
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Discord.png"
+		},
+		{
+			"name": "猫耳FM",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/CatEarFM.png"
+		},
+		{
+			"name": "OKX",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/OKX.png"
+		},
+		{
+			"name": "Elk",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Elk.png"
+		},
+		{
+			"name": "PayPal",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/PayPal.png"
+		},
+		{
+			"name": "OneKey",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/OneKey.png"
+		},
+		{
+			"name": "Instagram",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Instagram.png"
+		},
+		{
+			"name": "X",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/X.png"
+		},
+		{
+			"name": "Signal",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Signal.png"
+		},
+		{
+			"name": "Yealico",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Yealico.png"
+		},
+		{
+			"name": "UpNote",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/UpNote.png"
+		},
+		{
+			"name": "giffgaff",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/giffgaff.png"
+		},
+		{
+			"name": "TapTap",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/TapTap.png"
+		},
+		{
+			"name": "DeepL",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/DeepL.png"
+		},
+		{
+			"name": "美团外卖",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/MeiTuanItakeaway.png"
+		},
+		{
+			"name": "Filen",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Filen.png"
 		},
 		{
 			"name": "App Store",
