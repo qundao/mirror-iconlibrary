@@ -667,6 +667,14 @@
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Filen.png"
 		},
 		{
+			"name": "彩云天气",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/ColorfulClouds.png"
+		},
+		{
+			"name": "彩云天气Pro",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/ColorfulCloudsPro.png"
+		},
+		{
 			"name": "App Store",
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/AppStore.png"
 		},
