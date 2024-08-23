@@ -739,6 +739,10 @@
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/MaiMai.png"
 		},
 		{
+			"name": "网易有道词典",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/YoudaoDict.png"
+		},
+		{
 			"name": "App Store",
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/AppStore.png"
 		},
@@ -753,6 +757,10 @@
 		{
 			"name": "HTTPDNS",
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/HTTPDNS.png"
+		},
+		{
+			"name": "节点检测工具",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/Node_detection_tool.png"
 		},
 		{
 			"name": "OpenAI",
