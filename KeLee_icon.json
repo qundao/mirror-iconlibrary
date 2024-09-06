@@ -3,6 +3,10 @@
 	"description": "可莉图标订阅",
 	"icons": [
 		{
+			"name": "Loon",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Loon.png"
+		},
+		{
 			"name": "1.1.1.1",
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/1.1.1.1.png"
 		},
@@ -109,10 +113,6 @@
 		{
 			"name": "Line",
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Line.png"
-		},
-		{
-			"name": "Loon",
-			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Loon.png"
 		},
 		{
 			"name": "Netflix",
