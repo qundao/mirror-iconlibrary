@@ -871,6 +871,14 @@
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/BaiduPhoto.png"
 		},
 		{
+			"name": "Microsoft Copilot",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/MicrosoftCopilot.png"
+		},
+		{
+			"name": "Google Gemini",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/GoogleGemini.png"
+		},
+		{
 			"name": "App Store",
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/AppStore.png"
 		},
